@@ -1,0 +1,7 @@
+i{
+   color: gray;
+   cursor: pointer;
+   &.liked {
+    color: red;
+   }
+}
